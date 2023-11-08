@@ -1,5 +1,5 @@
 {
-  "name": "@retrovibe51/strapi-plugin-github-projects",
+  "name": "strapi-plugin-github-projects-rv51",
   "version": "1.0.0",
   "description": "This is the description of the plugin.",
   "strapi": {
