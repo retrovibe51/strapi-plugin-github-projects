@@ -1,12 +1,12 @@
 {
   "name": "strapi-plugin-github-projects-rv51",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is the description of the plugin.",
   "strapi": {
-    "name": "Github Projects",
+    "name": "github-projects",
     "description": "A Strapi plugin that allows us to generate projects from Github repos.",
     "kind": "plugin",
-    "displayName": "github-projects"
+    "displayName": "Github Projects"
   },
   "dependencies": {
     "@octokit/request": "^8.1.4",
