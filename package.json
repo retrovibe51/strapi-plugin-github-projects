@@ -1,6 +1,6 @@
 {
-  "name": "strapi-plugin-github-projects-rv51",
-  "version": "1.0.3",
+  "name": "rv51-strapi-plugin-github-projects",
+  "version": "1.0.4",
   "description": "This is the description of the plugin.",
   "strapi": {
     "name": "github-projects",
